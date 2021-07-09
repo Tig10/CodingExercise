@@ -28,3 +28,6 @@ Run JupyterLab
 ```bash
 jupyter-lab
 ```
+
+## Stable URL to notebook
+[Coding Exercise](https://nbviewer.jupyter.org/github/Tig10/CodingExercise/blob/master/coding_exercise.ipynb)
